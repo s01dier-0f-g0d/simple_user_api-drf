@@ -1,4 +1,4 @@
-# Django User Profile REST API
+# User Profile REST API
 
 A simple Django REST Framework (DRF) API for managing user profiles, with automatic age calculation and validation.
 
