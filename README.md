@@ -118,6 +118,6 @@ POST /api/users/
 
 5. Search users by name using /api/search/?name=<term>
 
-## 👨‍💻 Author: Darshan M
-## 📧 Email: darshan8216@gmail.com
-## 🌐 GitHub: https://github.com/s01dier-0f-g0d
+### 👨‍💻 Author: Darshan M
+### 📧 Email: darshan8216@gmail.com
+### 🌐 GitHub: https://github.com/s01dier-0f-g0d
