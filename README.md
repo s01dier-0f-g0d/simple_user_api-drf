@@ -42,8 +42,8 @@ A simple Django REST Framework (DRF) API for managing user profiles, with automa
 
 3. **Clone the repository**
    ```bash
-   git clone https://github.com/s01dier-0f-g0d/simple_user_api-drf.git
-   cd simple_user_api-drf
+   git clone https://github.com/s01dier-0f-g0d/user_profile_REST_API.git
+   cd user_profile_REST_API
 
 4. Register the api in settings.py
    ```bash
