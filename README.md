@@ -118,6 +118,15 @@ POST /api/users/
 
 5. Search users by name using /api/search/?name=<term>
 
+## 🧪 Testing the API
+You can test the API using:
+
+1. Postman
+
+2. cURL
+
+3. Python requests script - Run the test_api.py file in a separate terminal while the server is up and running.
+
 ### 👨‍💻 Author: Darshan M
 ### 📧 Email: darshan8216@gmail.com
 ### 🌐 GitHub: https://github.com/s01dier-0f-g0d
